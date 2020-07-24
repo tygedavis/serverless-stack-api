@@ -1,0 +1,8 @@
+{
+  "body": "{\"content\":\"Made 07/24 @ 3:17\",\"attachment\":\"hello.jpg\"}",
+  "requestContext": {
+    "identity": {
+      "cognitoIdentityId": "USER-SUB-1234"
+    }
+  }
+}
