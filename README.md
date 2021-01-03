@@ -1,4 +1,4 @@
-My currently working practice project with th Serverless Stack.
+My currently working practice project with the Serverless Stack.
 
 Technologies include:
 - NodeJS
